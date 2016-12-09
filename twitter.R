@@ -18,10 +18,10 @@ install.packages("ROAuth")
 download.file(url="http://curl.haxx.se/ca/cacert.pem",destfile="cacert.pem")
 
 
-consumer_key='NKcO1Y7lXnodYZSOf3sFemUgg'
-consumer_secret='YOvNiaOYdiqlpkTHqxex1VN6KeGJkhw8zxw71wZETs2abcPmQO'
-access_token='246900664-2H0qLbCsXKYBjOqW4mumlyp04WbKwVRXlpK66veL'
-access_secret='u37lWM3bxCwnwFuu46RoT0sjn7rA445WYdjEllQCTbDNT'
+consumer_key='WWW'
+consumer_secret='XX'
+access_token='XXXX'
+access_secret='XXX'
 
 
 setup_twitter_oauth(consumer_key,consumer_secret,access_token,access_secret)
